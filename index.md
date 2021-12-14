@@ -1,17 +1,28 @@
-## Welcome to GitHub Pages
+## Multiple States and Transition Paths in Marine Ecosystems (MultiStateFoodWeb)
 
-You can use the [editor on GitHub](https://github.com/a-sfrank/aimsq-2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The project is organized under the auspices of the American Institute of
+Mathematics (AIM)  **SQuaREs** (Structured Quartet Research Ensembles)
+program.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Project summary
 
-### Markdown
+This project aims at establishing a theoretical underpinning, supported by numerical simulations, for the axiom that
+marine ecosystems transition between multiple metastable states. The approach involves the development of two
+mathematical – deterministic and stochastic – modeling frameworks. In the deterministic framework, we describe the
+interlink among multiple predator-prey groups. This description is a parsimonious representation of a marine ecosystem.
+By extending the deterministic, to a stochastic framework, we aim to mimic the nature of empirical marine ecosystems.
+Within this framework, we identify multistable states and probabilistic transitions between these states.
+While the stochastic approach is well established in the molecular dynamics framework, its application to food-webs
+is novel.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Meet the team
+- Anna S. Frank (Principal Convener, Postdoc), Dept of Informatics, Univ. of Bergen, Norway
+- Sam Subbey (Co-Convener, Research Professor), Institute of Marine Research, Bergen, Norway
+- Susanna Röblitz (Professor), Dept of Informatics, Univ. of Bergen, Norway
+- Christof Schütte (Professor), Zuse Inst. Berlin (ZIB) and Inst. for Math., Freie Univ. Berlin (FUB), Germany
+- Elizabeth Read (Assistant Professor), Samueli School of Engineering, University of California, Irvine, USA
+- Fernanda S. Valdovinos (Assistant Professor), Ecology & Evol. Biol. and Complex Systems, Univ. of Michigan, USA
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
 ## Header 2
 ### Header 3
 
