@@ -1,12 +1,11 @@
-## Page under construction
+## Page currently under construction
 ## Multiple States and Transition Paths in Marine Ecosystems (MultiStateFoodWeb)
 
 The project is organized under the auspices of the American Institute of
 Mathematics (AIM)  **SQuaREs** (Structured Quartet Research Ensembles)
 program.
 
-### Project summary
-
+## Project summary
 This project aims at establishing a theoretical underpinning, supported by numerical simulations, for the axiom that
 marine ecosystems transition between multiple metastable states. The approach involves the development of two
 mathematical – deterministic and stochastic – modeling frameworks. In the deterministic framework, we describe the
@@ -16,7 +15,7 @@ Within this framework, we identify multistable states and probabilistic transiti
 While the stochastic approach is well established in the molecular dynamics framework, its application to food-webs
 is novel.
 
-## Meet the team
+### Meet the team
 - Anna S. Frank (Principal Convener, Postdoc), Dept of Informatics, Univ. of Bergen, Norway
 - Sam Subbey (Co-Convener, Research Professor), Institute of Marine Research, Bergen, Norway
 - Susanna Röblitz (Professor), Dept of Informatics, Univ. of Bergen, Norway
