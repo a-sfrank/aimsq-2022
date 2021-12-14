@@ -15,7 +15,7 @@ Within this framework, we identify multistable states and probabilistic transiti
 While the stochastic approach is well established in the molecular dynamics framework, its application to food-webs
 is novel.
 
-# Meet the team
+## Meet the team
 - Anna S. Frank (Principal Convener, Postdoc), Dept of Informatics, Univ. of Bergen, Norway
 - Sam Subbey (Co-Convener, Research Professor), Institute of Marine Research, Bergen, Norway
 - Susanna Röblitz (Professor), Dept of Informatics, Univ. of Bergen, Norway
