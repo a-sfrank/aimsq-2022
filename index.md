@@ -1,4 +1,4 @@
-## Page currently under construction
+
 ## Research Group on Multiple States and Transition Paths in Marine Ecosystems 
 
 The project is organized under the auspices of the American Institute of
@@ -16,8 +16,8 @@ While the stochastic approach is well established in the molecular dynamics fram
 is novel.
 
 ### Meet the research group
-- Anna S. Frank (Principal Convener, Postdoc), Univ. of Bergen, Norway
-- Sam Subbey (Co-Convener, Research Professor), Institute of Marine Research, Bergen, Norway
+- Anna S. Frank (PI, Postdoc), Univ. of Bergen, Norway
+- Sam Subbey (Co-PI, Research Professor), Institute of Marine Research, Bergen, Norway
 - Susanna Röblitz (Professor),  Univ. of Bergen, Norway
 - Christof Schütte (Professor), Zuse Inst. Berlin (ZIB) and Freie Univ. Berlin (FUB), Germany
 - Elizabeth Read (Assistant Professor), Univ. of California, Irvine, USA
@@ -27,3 +27,5 @@ is novel.
 The project has a duration of three years (2022-2024).
 
 ### Time-line and news
+
+(_Page currently under construction_)
