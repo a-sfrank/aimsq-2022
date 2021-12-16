@@ -27,4 +27,3 @@ is novel.
 The project has a duration of three years (2022-2024).
 
 ### Time-line and news
-
