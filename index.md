@@ -1,4 +1,3 @@
-
 ## Research Group on Multiple States and Transition Paths in Marine Ecosystems 
 
 The project is organized under the auspices of the American Institute of
