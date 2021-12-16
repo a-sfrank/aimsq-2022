@@ -16,12 +16,12 @@ While the stochastic approach is well established in the molecular dynamics fram
 is novel.
 
 ### Meet the team
-- Anna S. Frank (Principal Convener, Postdoc), Dept of Informatics, Univ. of Bergen, Norway
+- Anna S. Frank (Principal Convener, Postdoc), Univ. of Bergen, Norway
 - Sam Subbey (Co-Convener, Research Professor), Institute of Marine Research, Bergen, Norway
-- Susanna Röblitz (Professor), Dept of Informatics, Univ. of Bergen, Norway
-- Christof Schütte (Professor), Zuse Inst. Berlin (ZIB) and Inst. for Math., Freie Univ. Berlin (FUB), Germany
-- Elizabeth Read (Assistant Professor), Samueli School of Engineering, University of California, Irvine, USA
-- Fernanda S. Valdovinos (Assistant Professor), Ecology & Evol. Biol. and Complex Systems, Univ. of Michigan, USA
+- Susanna Röblitz (Professor),  Univ. of Bergen, Norway
+- Christof Schütte (Professor), Zuse Inst. Berlin (ZIB) and Freie Univ. Berlin (FUB), Germany
+- Elizabeth Read (Assistant Professor), Univ. of California, Irvine, USA
+- Fernanda S. Valdovinos (Assistant Professor), Univ. of Michigan, USA
 
 ## Header 2
 ### Header 3
