@@ -1,8 +1,8 @@
 ## Page currently under construction
-## Multiple States and Transition Paths in Marine Ecosystems (MultiStateFoodWeb)
+## Research Group on Multiple States and Transition Paths in Marine Ecosystems 
 
 The project is organized under the auspices of the American Institute of
-Mathematics (AIM)  **SQuaREs** (Structured Quartet Research Ensembles)
+Mathematics (AIM)  [**SQuaREs**](https://aimath.org/programs/squares/) (Structured Quartet Research Ensembles)
 program.
 
 ## Project summary
@@ -15,7 +15,7 @@ Within this framework, we identify multistable states and probabilistic transiti
 While the stochastic approach is well established in the molecular dynamics framework, its application to food-webs
 is novel.
 
-### Meet the team
+### Meet the research group
 - Anna S. Frank (Principal Convener, Postdoc), Univ. of Bergen, Norway
 - Sam Subbey (Co-Convener, Research Professor), Institute of Marine Research, Bergen, Norway
 - Susanna Röblitz (Professor),  Univ. of Bergen, Norway
@@ -23,26 +23,8 @@ is novel.
 - Elizabeth Read (Assistant Professor), Univ. of California, Irvine, USA
 - Fernanda S. Valdovinos (Assistant Professor), Univ. of Michigan, USA
 
-## Header 2
-### Header 3
+### Project duration 
+The project has a duration of three years (2022-2024).
 
-- Bulleted
-- List
+### Time-line and news
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/a-sfrank/aimsq-2022/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
