@@ -23,7 +23,7 @@ is novel.
 - Fernanda S. Valdovinos (Assistant Professor), Univ. of Michigan, USA
 
 ### Project duration 
-The project has a duration of three years (2022-2024).
+The project has a duration of three years (2022-2025).
 
 ### Time-line and news
 
