@@ -2,5 +2,5 @@ theme: jekyll-theme-architect
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: [Research Group on Multiple States and Transition Paths in Marine Ecosystems]
+description: [Project news and updates]
