@@ -17,11 +17,11 @@ is novel.
 - Sam Subbey (Co-PI, Research Professor), Institute of Marine Research, Bergen, Norway
 - Susanna Röblitz (Professor),  Univ. of Bergen, Norway
 - Christof Schütte (Professor), Zuse Inst. Berlin (ZIB) and Freie Univ. Berlin (FUB), Germany
-- Elizabeth Read (Assistant Professor), Univ. of California, Irvine, USA
-- Fernanda S. Valdovinos (Assistant Professor), Univ. of Michigan, USA
+- Elizabeth Read (Associate Professor), Univ. of California, Irvine, USA
+- Fernanda S. Valdovinos (Associate Professor), Univ. of California, Davis, USA
 
 ### Project duration 
-The project has a duration of three years (2022-2025).
+The project has a duration of three years (2023-2025).
 
 ### Time-line and news
 
