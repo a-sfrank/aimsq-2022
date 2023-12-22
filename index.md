@@ -19,8 +19,8 @@ is novel.
 - Elizabeth Read (Associate Professor), Univ. of California, Irvine, USA
 
 #### Student associates
-- Andrea Pinke, Technical University of Munch (TUM), Germany
-- Jiawen Zhang, Technical University of Munch (TUM), Germany 
+- Andrea Pinke, Technical University of Munich (TUM), Germany
+- Jiawen Zhang, Technical University of Munich (TUM), Germany 
   
 ### Project duration 
 The project has a duration of three years (2023-2025).
